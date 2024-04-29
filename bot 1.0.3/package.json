@@ -1,0 +1,18 @@
+{
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "bytenode": "^1.3.4",
+    "jsonfile": "^6.1.0",
+    "steam-totp": "^2.1.1",
+    "steam-tradeoffer-manager": "^2.10.4",
+    "steam-user": "^4.20.2",
+    "steamcommunity": "^3.43.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "njpyy",
+  "license": "ISC"
+}
